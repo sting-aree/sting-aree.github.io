@@ -2,6 +2,7 @@
 
 The invisible man is a man not visible for anyone. This is quite cool because he cannot been seen. So he can mainly do what he wants in his life!
 
-## is naked
-## is not friendly
-## loves women
+## Charakter Eigenschaften
+* is naked
+* is not friendly
+* loves women
