@@ -6,3 +6,5 @@ The invisible man is a man not visible for anyone. This is quite cool because he
 * is naked
 * is not friendly
 * loves women
+
+> You cannot see me!
